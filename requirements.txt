@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+huggingface_hub
+soundfile
+librosa
+evaluate
+jiwer
+accelerate
+tensorboardX
